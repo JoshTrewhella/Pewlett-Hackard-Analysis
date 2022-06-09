@@ -10,7 +10,18 @@ Next we needed to create a retirement table with employees born between 1/1/1952
 Finally, we needed to determine which of these employees were eligible for the mentorship program. Here, we created a table with employees born between 1/1/1965 and 12/31/1965 by joining the employees table and the department employee table. 
 
 ## Results
-Retiring by Title Table: 
+
+- bullet 
+- bullet 
+- bullet 
+- bullet 
+
+Retiring by Title Table:
+
+![alt text](https://github.com/JoshTrewhella/Pewlett-Hackard-Analysis/blob/main/Table%20Images/retiring_titles.PNG)
+
+
+[Mentorship Eligibility](https://github.com/JoshTrewhella/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 
 ## Summary
