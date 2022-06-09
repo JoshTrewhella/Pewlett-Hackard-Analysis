@@ -25,3 +25,7 @@ Retiring by Title Table:
 
 
 ## Summary
+### Size of the Silver Tsunami
+This company will have 90,398 employees retiring soon. The majority of which will be Senior Engineers and Senior Staff. 
+### Mentorship Program
+With only 1940 employees elibile to be mentors, PH will need to start hiring new talent ASAP to replace the upcoming retirements over the next few years. 
