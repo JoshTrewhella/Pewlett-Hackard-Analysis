@@ -11,10 +11,10 @@ Finally, we needed to determine which of these employees were eligible for the m
 
 ## Results
 
-- bullet 
-- bullet 
-- bullet 
-- bullet 
+- PH has 90,398 employees retiring
+- With this many employees soon to be retiring, it would be wise to start bringing in and training new talent as well as creating succession plans. 
+- There are 1940 employees that are eligible to help train the new talen via the mentorship program.  
+- Fortunately only 2 of the retiring employees are management level.
 
 Retiring by Title Table:
 
